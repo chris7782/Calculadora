@@ -203,7 +203,7 @@ label_imagen.pack(pady=20)
 integrantes = [
     {"nombre": "Juan Pablo Lara Tlahuice", "matricula": "231403038", "numero_lista": "8"},
     {"nombre": "Christian Gavilan Chapulin", "matricula": "231403033", "numero_lista": "7"},
-    {"nombre": "Juan Carlos Pineda Soriano", "matricula": "", "numero_lista": "18"},
+    {"nombre": "Juan Carlos Pineda Soriano", "matricula": "231403048", "numero_lista": "18"},
     {"nombre": "Yhair Antonio Toxqui Coyotecalt", "matricula": "231403074", "numero_lista": "24"}
 ]
 
